@@ -1,5 +1,9 @@
 # Changelog
 
+## \[0.54.4]
+
+- [`a4def18`](https://github.com/tauri-apps/wry/commit/a4def18aeb3c90db8fc9172833bdc5d2a93ee1c9) ([#1683](https://github.com/tauri-apps/wry/pull/1683) by [@renovate](https://github.com/tauri-apps/wry/../../renovate)) Updated dependency dom_query to 0.26.0
+
 ## \[0.54.3]
 
 - [`40a7032`](https://github.com/tauri-apps/wry/commit/40a703214d3e66942edf6f6a96074580798d5046) ([#1677](https://github.com/tauri-apps/wry/pull/1677) by [@russellmcc](https://github.com/tauri-apps/wry/../../russellmcc)) Fix bug where wry would crash when loaded by multiple dylibs in the same process on macOS.
