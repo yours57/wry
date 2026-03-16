@@ -3,6 +3,7 @@
 // SPDX-License-Identifier: MIT
 
 use gdk::{Cursor, EventMask, WindowEdge};
+use webkit2gtk::SettingsExt;
 use gio::Cancellable;
 use glib::signal::Inhibit;
 use gtk::prelude::*;
